@@ -10,4 +10,12 @@
 
 #### Links de Visulizaciones:
 
+https://arielmmdx.github.io/tp_personal/tp_personal_datawrapper_dias_de_semana.html
+
+https://arielmmdx.github.io/tp_personal/tp_personal_datawrapper_resumen_semanal.html
+
+https://arielmmdx.github.io/tp_personal/tp_personal_flourish.html
+
+https://arielmmdx.github.io/tp_personal/tp_personal_observable.html
+
 https://arielmmdx.github.io/tp_personal/tp_personal_rawgraphs.html
