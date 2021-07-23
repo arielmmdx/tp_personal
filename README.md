@@ -7,3 +7,7 @@
     Flourish
     Rawgraphs
     Vega-Lite en Observable.
+
+#### Links de Visulizaciones:
+
+https://arielmmdx.github.io/tp_personal/tp_personal_rawgraphs.html
