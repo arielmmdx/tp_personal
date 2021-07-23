@@ -1,0 +1,39 @@
+Tarea,Categoría,Lunes,Martes,Miercoles,Jueves,Viernes,Sabado,Domingo,Semanal
+Bañarse,Aseo Personal,20,30,25,35,15,40,40,205
+Afeitarse,Aseo Personal,10,0,0,0,0,5,10,25
+Cambiarme,Aseo Personal,10,15,7,9,5,20,25,91
+Necesidades,Aseo Personal,60,50,70,40,55,90,60,425
+Te,Bebida,10,10,10,10,10,10,10,70
+Mate,Bebida,30,30,30,30,30,30,30,210
+Agua,Bebida,20,20,20,20,20,20,20,140
+Vino,Bebida,0,0,0,10,0,20,0,30
+Cerveza,Bebida,0,0,0,30,30,30,0,90
+Licuados,Bebida,30,30,30,30,30,30,30,210
+Desayuno,Comer,25,15,10,15,5,45,45,160
+Merienda,Comer,10,10,10,10,10,0,0,50
+Almuerzo,Comer,30,35,15,20,60,45,90,295
+Cena,Comer,30,60,60,60,60,60,60,390
+Carrefour,Compras,0,0,40,0,60,0,30,130
+El Chino,Compras,0,20,0,0,25,20,0,65
+Almacen,Compras,15,10,20,0,0,15,20,80
+Carniceria,Compras,0,0,0,0,30,20,0,50
+Verdularía,Compras,0,0,30,0,0,30,0,60
+Colegio,Tramite,45,45,45,45,45,0,0,225
+Uom,Tramite,0,30,0,0,45,0,0,75
+Pago de Servicios.,Tramite,30,0,0,0,0,0,0,30
+Cajero Automático,Tramite,10,0,0,0,10,0,0,20
+Barrer el Pasillo,Casa,0,0,0,0,0,30,0,30
+Lavarropa,Casa,10,15,10,15,10,15,10,85
+Hacer la Cama,Casa,3,2,3,5,3,2,3,21
+Colgar la ropa,Casa,10,15,15,15,15,30,30,130
+Hacer la Comida,Casa,15,20,20,25,10,60,10,160
+Google Meet,Trabajo,45,45,45,45,45,0,0,225
+Programar,Trabajo,240,300,300,240,240,0,0,1320
+Capacitación,Trabajo,75,45,15,100,110,0,0,345
+Relevamientos,Trabajo,60,90,120,35,25,0,0,330
+Caminar,Personal,0,60,60,0,0,60,60,240
+Mobile,Personal,45,60,50,55,90,90,75,465
+ITBA,Personal,240,0,0,240,0,60,60,600
+Netflix-Disney-Tv,Personal,0,0,0,0,0,120,0,120
+Visitar Papas,Personal,0,30,30,0,45,60,60,225
+Dormir,Personal,312,348,350,301,302,383,662,2658
