@@ -1,6 +1,6 @@
 # tp_personal
 
-### El trabajo personal está basado en la medición de mis tiempos durante toda una semana.
+#### El trabajo personal está basado en la medición de mis tiempos personales durante toda una semana.
 
 #### Las herramientas utilizadas son: 
     Datawrapper
